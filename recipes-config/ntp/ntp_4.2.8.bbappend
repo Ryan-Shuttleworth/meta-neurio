@@ -5,6 +5,8 @@
 # to 127.127.1.0.  This function adds some real servers  
 pkg_postinst_ntp() {
     cat <<EOF >> $D/etc/ntp.conf
+
+# additional time servers
 server 0.pool.ntp.org iburst
 server 1.pool.ntp.org iburst
 server 2.pool.ntp.org iburst
