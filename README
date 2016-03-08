@@ -1,7 +1,15 @@
 This README file contains information on the contents of the
-neurio layer.
+meta-neurio layer which is currently being used to customize
+features of the Freescale core-image-base but should be usable 
+for any image build.
 
-Please see the corresponding sections below for details.
+NOTES
+=====
+
+ * Mar 8, 2016 - This layer is currently under development, 
+   please stay tuned.  
+
+ * Please see the corresponding sections below for details.
 
 
 Dependencies
