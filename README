@@ -6,11 +6,11 @@ for any image build.
 NOTES
 =====
 
+ * Mar 8, 2016 - Yocto layer examples have been left in place
+   for experimentation during development 
  * Mar 8, 2016 - This layer is currently under development, 
    please stay tuned.  
-
  * Please see the corresponding sections below for details.
-
 
 Dependencies
 ============
